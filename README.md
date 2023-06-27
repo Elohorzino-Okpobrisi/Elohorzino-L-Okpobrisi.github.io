@@ -2,8 +2,6 @@
 
 <img width="731" alt="image" src="https://github.com/Elohorzino-Okpobrisi/Elohorzino-L-Okpobrisi.github.io/assets/137432456/7429d357-4ec4-4e6b-b514-d5b95589c886">
 
-![Road Accident Analysis](Downloads/PORTFLOIO/Road Accident Analysis.pdf)
-
 ## Data Used
 
 **Data -** Road accidents in United Kingdom data with over 300,000 rows from 2021 to 2022.

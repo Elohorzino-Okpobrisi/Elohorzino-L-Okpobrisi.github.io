@@ -3,7 +3,7 @@
 <img width="731" alt="image" src="https://github.com/Elohorzino-Okpobrisi/Elohorzino-L-Okpobrisi.github.io/assets/137432456/7429d357-4ec4-4e6b-b514-d5b95589c886">
 
 ## Introduction
-In this project, I cleaned, analysed and visualised the dataset containing road accidents recorded in the United Kingdom from 2021 to 2022. Leveraging on excel, I cleaned and analysed the dataset and after it was satisfactory, I utilised used Power BI to create measures, which i used in efficent visualisation of the analysed data. This is the breakdown of the flow of the project. 
+In this project, I cleaned, analysed and visualised the dataset containing road accidents recorded in the United Kingdom from 2021 to 2022. Leveraging on excel, I cleaned and analysed the dataset and after it was satisfactory, I utilised Power BI to create measures, which i used in efficent visualisation of the analysed data. This is the breakdown of the flow of the project. 
 
 ## Data Used
 
